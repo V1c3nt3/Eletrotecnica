@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GÊN 1.3</string>
+    <string name="cliente">CLIENTE</string>
+    <string name="tensao">TENSÃO (V)</string>
+    <string name="corrente">CORRENTE (A)</string>
+    <string name="potencia">POTÊNCIA (KW)</string>
+    <string name="disjuntor">DISJUNTOR</string>
+    <string name="Resultado">RESULTADO FINAL</string>
+    <string name="distancia">DISTÂNCIA(M)</string>
+    <string name="bitola">Diâmetro do condutor (mm²)</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="voltar">INICIO</string>
+    <string name="alu">ALUMÍNIO</string>
+    <string name="cu">COBRE</string>
+    <string name="mono">UNIPOLAR</string>
+    <string name="bi">BIPOLAR</string>
+    <string name="queda">QUEDA DE TENSÃO \%</string>
+    <string name="texto01">CLIENTES LISTADOS</string>
+</resources>
